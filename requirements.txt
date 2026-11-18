@@ -1,0 +1,4 @@
+# Dependências do Kryptex Monitor Pro
+customtkinter>=5.2.0
+pywin32>=306
+Pillow>=10.0.0
